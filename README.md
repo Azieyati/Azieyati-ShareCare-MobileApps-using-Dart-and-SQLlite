@@ -1,4 +1,4 @@
-# ShareCare-MobileApps-using-Dart-and-SQLlite
+# ShareCare-MobileApps-using-Dart-and-SQLFlite-library
 
 ## Introduction 
 
