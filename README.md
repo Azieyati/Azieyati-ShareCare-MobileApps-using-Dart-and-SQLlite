@@ -13,44 +13,60 @@ In today's modern society, there's a big problem with lots of food being thrown 
 3. To test the mobile app’s ability to maximize the application's impact on reducing food waste and aiding those in need
 
 ## Screen Output
-1. Splash screen
+### 1. Splash screen
    The initial screen that appears when launching the ShareCare mobile app is called a Splash screen.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/04c7b968-28eb-4c45-9aa2-867fed590a8a)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/46a6e9bf-3eb0-4b10-9a5d-baa7fed6a9f7)
 
 
-2. Login screen
+
+### 2. Login screen
    The second screen of the ShareCare mobile app is the Login screen. This module provides users with the ability to sign into the application before accessing the apps.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/6f6546ee-8bd2-4263-8c31-f46553fc55b4)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/fa9e249a-a66a-4355-89ab-0a64a9a8d4b4)
 
-3. Registration screen
+
+
+### 3. Registration screen
    Another screen in the ShareCare application is the "Sign Up" screen. This section is designed for first-time users who need to register before using the application. To successfully register, users are prompted to provide certain details. This process involves filling out the required information to create a new account.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/1f3a9507-4f4c-4efa-8720-17c225b00acf)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/aa4f7762-1ac2-4db4-a155-613b14c7c95a)
 
-4. Home Page screen
+
+
+### 4. Home Page screen
    Another screen in the ShareCare application is the "Home Page" screen. This screen serves as the central point where users can access information about ShareCare.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/75cd41d1-540a-4c35-8f9f-8d4be423cd4b)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/ef8e07a9-c51a-48f4-a161-dc35243f0d8a)
 
-5. Food Donation form screen
+
+
+### 5. Food Donation form screen
    Another screen in the ShareCare application is the “Food Donation Form” screen. On this screen, users are prompted to provide various details to facilitate the donation process effectively.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/8e0f42c8-3050-471f-a323-aeec8873fea8)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/3e6e9ab6-9a8a-46a2-8c5f-de9ccf485df6)
 
 
-6. Profile screen
+
+### 6. Profile screen
    Another screen in the ShareCare application is the “Food Donation Form” screen. On this screen, users are prompted to provide various details to facilitate the donation process effectively.
 
-  ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/5e018f77-2118-44a3-a097-19acdbf9557a)
+  ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/46650b15-7983-42ff-a6c0-3f9aec8333bf)
 
-7. History screen
+
+
+### 7. History screen
    Another screen in the ShareCare application is the "history" screen. This screen presents a comprehensive donation history. This feature enables users to easily review their previous contributions through a simple and user-friendly experience by clicking the "View" button.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/bef07ad9-c2e3-4729-9c26-927c30fed15f)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/b3371e31-cca4-49c0-bfb5-8112f42a2d36)
+
+
 
 8. Details history screen
     Another screen in the ShareCare application is the "details history" screen. This screen provides in-depth information about each donation when users select a specific entry from the donation history list by clicking the "View" button.
 
-   ![image](https://github.com/Azieyati/ShareCare-Apps-using-Dart-and-SQLFlite-library/assets/156404474/5637b826-7e04-43aa-a0ae-2430fe1ae3ce)
+   ![image](https://github.com/Azieyati/ShareCare-MobileApps-using-Dart-and-SQLlite/assets/156404474/d7644213-b62e-4611-b10d-02798307db17)
+
+
+
+   ### THANK YOU!
